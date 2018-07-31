@@ -1,0 +1,14 @@
+c:\users\anonimous\documents\visual studio 2013\Projects\HK-Park\HK-Park\bin\Debug\HK-Park.exe.config
+c:\users\anonimous\documents\visual studio 2013\Projects\HK-Park\HK-Park\bin\Debug\HK-Park.exe
+c:\users\anonimous\documents\visual studio 2013\Projects\HK-Park\HK-Park\bin\Debug\HK-Park.pdb
+c:\users\anonimous\documents\visual studio 2013\Projects\HK-Park\HK-Park\bin\Debug\HK-Park.xml
+c:\users\anonimous\documents\visual studio 2013\Projects\HK-Park\HK-Park\obj\Debug\HK_Park.Form1.resources
+c:\users\anonimous\documents\visual studio 2013\Projects\HK-Park\HK-Park\obj\Debug\HK_Park.Resources.resources
+c:\users\anonimous\documents\visual studio 2013\Projects\HK-Park\HK-Park\obj\Debug\HK-Park.vbproj.GenerateResource.Cache
+c:\users\anonimous\documents\visual studio 2013\Projects\HK-Park\HK-Park\obj\Debug\HK-Park.exe
+c:\users\anonimous\documents\visual studio 2013\Projects\HK-Park\HK-Park\obj\Debug\HK-Park.xml
+c:\users\anonimous\documents\visual studio 2013\Projects\HK-Park\HK-Park\obj\Debug\HK-Park.pdb
+c:\users\anonimous\documents\visual studio 2013\Projects\HK-Park\HK-Park\obj\Debug\HK_Park.Consulta_Mensa.resources
+C:\Users\Anonimous\Documents\Visual Studio 2013\Projects\HK-Park\HK-Park\obj\Debug\HK-Park.vbprojResolveAssemblyReference.cache
+C:\Users\Anonimous\Documents\Visual Studio 2013\Projects\HK-Park\HK-Park\obj\Debug\HK_Park.MovimenMensa.resources
+C:\Users\Anonimous\documents\visual studio 2013\Projects\HK-Park\HK-Park\obj\Debug\HK_Park.txtBcadMensV3.resources
